@@ -1,0 +1,11 @@
+langchain
+langchain-community
+openai
+python-dotenv
+duckduckgo-search
+wikipedia
+pyttsx3
+pyaudio
+faster-whisper
+openai
+python-dotenv

@@ -1,0 +1,16 @@
+name: agentdemo
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pyttsx3
+  - pyaudio
+  - tkinter
+  - faster-whisper
+  - openai
+  - python-dotenv
+  - watchdog
+  - pip:
+      - openrouter

@@ -21,7 +21,9 @@
 
 ## 📸 Screenshots
 
-*(Add a few screenshots or a GIF demo here)*
+![Screenshot 2025-04-14 195516](https://github.com/user-attachments/assets/21ca45d9-8bbf-4e21-8631-82edd239a47b)
+
+![Screenshot 2025-04-14 195445](https://github.com/user-attachments/assets/4f0ebd6f-3679-4e81-b606-b2e413694920)
 
 ---
 
